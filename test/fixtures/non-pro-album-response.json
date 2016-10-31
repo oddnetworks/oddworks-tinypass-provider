@@ -1,0 +1,50 @@
+{
+  "uri": "/users/32180226/albums/3078903",
+  "name": "Level Up Con 2014",
+  "description": null,
+  "pictures": {
+    "uri": "/videos/108464131/pictures/494772429",
+    "active": true,
+    "type": "custom",
+    "sizes": [
+      {
+        "width": 100,
+        "height": 75,
+        "link": "https://i.vimeocdn.com/video/494772429_100x75.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494772429_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 200,
+        "height": 150,
+        "link": "https://i.vimeocdn.com/video/494772429_200x150.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494772429_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 295,
+        "height": 166,
+        "link": "https://i.vimeocdn.com/video/494772429_295x166.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494772429_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 640,
+        "height": 360,
+        "link": "https://i.vimeocdn.com/video/494772429_640x360.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494772429_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 960,
+        "height": 540,
+        "link": "https://i.vimeocdn.com/video/494772429_960x540.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494772429_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      }
+    ],
+    "resource_key": "eeb505bfe90f74c5d863adc54d34e4ebf5737f8b"
+  },
+  "metadata": {
+    "connections": {
+      "videos": {
+        "total": 11
+      }
+    }
+  }
+}

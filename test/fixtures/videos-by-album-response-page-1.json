@@ -1,0 +1,2406 @@
+{
+  "total": 40,
+  "page": 1,
+  "per_page": 25,
+  "paging": {
+    "next": "/me/albums/3333333/videos?page=2",
+    "previous": null,
+    "first": "/me/albums/3333333/videos?page=1",
+    "last": "/me/albums/3333333/videos?page=2"
+  },
+  "data": [
+    {
+      "uri": "/videos/010101010",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 168,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:13+00:00",
+      "pictures": {
+        "uri": "/videos/010101010/pictures/574967139",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967139_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967139_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967139_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967139_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967139_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967139_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967139_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "8aa0589bd80aec7d724ad1b8ea68df557574a06e"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/010101010.sd.mp4?s=2521f8d0bea7b588f5cf8c94424ccc597eb81b42&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 20346034,
+          "md5": "b25725bbd626491f81d7b989001dda33",
+          "link_secure": "https://player.vimeo.com/external/010101010.sd.mp4?s=2521f8d0bea7b588f5cf8c94424ccc597eb81b42&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/010101010.hd.mp4?s=45c741642a1a20e95503af930c4a04bdcbebb913&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 26952563,
+          "md5": "0e883d038ff40acddce2b3076b522ce3",
+          "link_secure": "https://player.vimeo.com/external/010101010.hd.mp4?s=45c741642a1a20e95503af930c4a04bdcbebb913&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/010101010.sd.mp4?s=2521f8d0bea7b588f5cf8c94424ccc597eb81b42&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 10333500,
+          "md5": "d4330da2b0056f71a46a25a0b7500feb",
+          "link_secure": "https://player.vimeo.com/external/010101010.sd.mp4?s=2521f8d0bea7b588f5cf8c94424ccc597eb81b42&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/010101010.m3u8?s=8c9d1709cc57b8c81d0c12d78946b88e8a4397e2&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 20346034,
+          "md5": "b25725bbd626491f81d7b989001dda33",
+          "link_secure": "https://player.vimeo.com/external/010101010.m3u8?s=8c9d1709cc57b8c81d0c12d78946b88e8a4397e2&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/020202020",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 141,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:12+00:00",
+      "pictures": {
+        "uri": "/videos/020202020/pictures/574967159",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967159_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967159_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967159_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967159_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967159_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967159_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967159_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "598764dd5e095e892ff7d8cd4694b3bd21cd5554"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/020202020.hd.mp4?s=5c8da0de7a3c22bea5b7a9e1c6368875c92af572&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:06:52+00:00",
+          "fps": 24,
+          "size": 32785339,
+          "md5": "e3bee9105a8d255cf7ce74c36f27f008",
+          "link_secure": "https://player.vimeo.com/external/020202020.hd.mp4?s=5c8da0de7a3c22bea5b7a9e1c6368875c92af572&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/020202020.sd.mp4?s=46318b894e28bbcd1fa999c3aabcd65dc75308b8&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:06:52+00:00",
+          "fps": 24,
+          "size": 10104764,
+          "md5": "7b8a0dc538b9ff47f44b041f1493fa3b",
+          "link_secure": "https://player.vimeo.com/external/020202020.sd.mp4?s=46318b894e28bbcd1fa999c3aabcd65dc75308b8&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/020202020.sd.mp4?s=46318b894e28bbcd1fa999c3aabcd65dc75308b8&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:06:52+00:00",
+          "fps": 24,
+          "size": 22362894,
+          "md5": "52f8caf25f5ecd6e9b2b32d3e27272ad",
+          "link_secure": "https://player.vimeo.com/external/020202020.sd.mp4?s=46318b894e28bbcd1fa999c3aabcd65dc75308b8&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/020202020.m3u8?s=dc3288dde394cfd7847523ba3c3d3c3b4ae8300c&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:06:52+00:00",
+          "fps": 24,
+          "size": 32785339,
+          "md5": "e3bee9105a8d255cf7ce74c36f27f008",
+          "link_secure": "https://player.vimeo.com/external/020202020.m3u8?s=dc3288dde394cfd7847523ba3c3d3c3b4ae8300c&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/030303030",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 152,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:10+00:00",
+      "pictures": {
+        "uri": "/videos/030303030/pictures/574967107",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967107_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967107_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967107_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967107_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967107_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967107_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967107_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "27bf3ba995335e3b22540fb3231768b665b9c8f2"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/030303030.sd.mp4?s=17068593189d4ff93efe4c3063e94f07a3f68f54&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:05:52+00:00",
+          "fps": 24,
+          "size": 9993214,
+          "md5": "1b8c5fe7ad49bea6f686ef0abfd7ae66",
+          "link_secure": "https://player.vimeo.com/external/030303030.sd.mp4?s=17068593189d4ff93efe4c3063e94f07a3f68f54&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/030303030.hd.mp4?s=f469fd050b64af3d4ee6f787783b9f7cd689608a&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:05:51+00:00",
+          "fps": 24,
+          "size": 27352440,
+          "md5": "8c06b70cc074513c31cf7778026a72c5",
+          "link_secure": "https://player.vimeo.com/external/030303030.hd.mp4?s=f469fd050b64af3d4ee6f787783b9f7cd689608a&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/030303030.sd.mp4?s=17068593189d4ff93efe4c3063e94f07a3f68f54&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:05:51+00:00",
+          "fps": 24,
+          "size": 19709648,
+          "md5": "72ffbdb3273b9277fb999c2f9ac3d9c6",
+          "link_secure": "https://player.vimeo.com/external/030303030.sd.mp4?s=17068593189d4ff93efe4c3063e94f07a3f68f54&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/030303030.m3u8?s=0b08e7aca79634c2ed8cd719c4f7c74543ee0294&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:05:52+00:00",
+          "fps": 24,
+          "size": 9993214,
+          "md5": "1b8c5fe7ad49bea6f686ef0abfd7ae66",
+          "link_secure": "https://player.vimeo.com/external/030303030.m3u8?s=0b08e7aca79634c2ed8cd719c4f7c74543ee0294&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/040404040",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 175,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:09+00:00",
+      "pictures": {
+        "uri": "/videos/040404040/pictures/574967114",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967114_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967114_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967114_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967114_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967114_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967114_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967114_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "f94dde22bdd5795fca56dcb42fab3f10eb9339cd"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/040404040.sd.mp4?s=b8e56cc238694e345c8263deaf30afd16937b494&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 21172317,
+          "md5": "938b15c93f503ee741b82b52c4640856",
+          "link_secure": "https://player.vimeo.com/external/040404040.sd.mp4?s=b8e56cc238694e345c8263deaf30afd16937b494&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/040404040.hd.mp4?s=f649f74006fc9e2eca03f0cd7c000f61cb9b8b09&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 29714102,
+          "md5": "72645e04a3ccc0eeacece1df7481a39d",
+          "link_secure": "https://player.vimeo.com/external/040404040.hd.mp4?s=f649f74006fc9e2eca03f0cd7c000f61cb9b8b09&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/040404040.sd.mp4?s=b8e56cc238694e345c8263deaf30afd16937b494&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 10680219,
+          "md5": "73e1689c0854258ed637d4802978621d",
+          "link_secure": "https://player.vimeo.com/external/040404040.sd.mp4?s=b8e56cc238694e345c8263deaf30afd16937b494&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/040404040.m3u8?s=5eb5443d62074b575ee890c55139f905ab57d54b&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 21172317,
+          "md5": "938b15c93f503ee741b82b52c4640856",
+          "link_secure": "https://player.vimeo.com/external/040404040.m3u8?s=5eb5443d62074b575ee890c55139f905ab57d54b&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/050505050",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 149,
+      "width": 540,
+      "height": 360,
+      "release_time": "2016-06-09T17:38:08+00:00",
+      "pictures": {
+        "uri": "/videos/050505050/pictures/574967095",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967095_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967095_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967095_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967095_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967095_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967095_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 427,
+            "link": "https://i.vimeocdn.com/video/574967095_640x427.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967095_640x427.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 640,
+            "link": "https://i.vimeocdn.com/video/574967095_960x640.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967095_960x640.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "57e14e8d03ac203fd26b3d2e39188f8b9f94c402"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 540,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/050505050.sd.mp4?s=181d76dd61f8b8881cf34359ff476afb58671369&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:21+00:00",
+          "fps": 24,
+          "size": 9548138,
+          "md5": "e9613e7a744c92d7343d8b3ff12223be",
+          "link_secure": "https://player.vimeo.com/external/050505050.sd.mp4?s=181d76dd61f8b8881cf34359ff476afb58671369&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 720,
+          "height": 480,
+          "link": "http://player.vimeo.com/external/050505050.sd.mp4?s=181d76dd61f8b8881cf34359ff476afb58671369&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:21+00:00",
+          "fps": 24,
+          "size": 17214702,
+          "md5": "941bcce584405950344f8aa2ab181db3",
+          "link_secure": "https://player.vimeo.com/external/050505050.sd.mp4?s=181d76dd61f8b8881cf34359ff476afb58671369&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/050505050.m3u8?s=3d9ff07658438346035c947fd50c32358dbd2402&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:21+00:00",
+          "fps": 24,
+          "size": 9548138,
+          "md5": "e9613e7a744c92d7343d8b3ff12223be",
+          "link_secure": "https://player.vimeo.com/external/050505050.m3u8?s=3d9ff07658438346035c947fd50c32358dbd2402&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/060606060",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 211,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:07+00:00",
+      "pictures": {
+        "uri": "/videos/060606060/pictures/574967086",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967086_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967086_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967086_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967086_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967086_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967086_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967086_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "9e581dd13e0d47efc71c773c65601bda51fd546f"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/060606060.hd.mp4?s=f445a1676114c6d567854b77f4f23ab99737248e&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:36+00:00",
+          "fps": 24,
+          "size": 38816829,
+          "md5": "45f4ca8622b3f1fe2b55fb6cfd9fcc3e",
+          "link_secure": "https://player.vimeo.com/external/060606060.hd.mp4?s=f445a1676114c6d567854b77f4f23ab99737248e&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/060606060.sd.mp4?s=6db7f4ab94d08fe700a4fece4d2f839a08cbf813&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:36+00:00",
+          "fps": 24,
+          "size": 28654065,
+          "md5": "4026d12e8a4808554ef36bc718a6bc83",
+          "link_secure": "https://player.vimeo.com/external/060606060.sd.mp4?s=6db7f4ab94d08fe700a4fece4d2f839a08cbf813&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/060606060.sd.mp4?s=6db7f4ab94d08fe700a4fece4d2f839a08cbf813&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:36+00:00",
+          "fps": 24,
+          "size": 14418691,
+          "md5": "4e9c578a64de47deaa32b01428f93332",
+          "link_secure": "https://player.vimeo.com/external/060606060.sd.mp4?s=6db7f4ab94d08fe700a4fece4d2f839a08cbf813&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/060606060.m3u8?s=7ad7a9dc6798fc2b12dddce0d7131c8878dc9dfc&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:36+00:00",
+          "fps": 24,
+          "size": 38816829,
+          "md5": "45f4ca8622b3f1fe2b55fb6cfd9fcc3e",
+          "link_secure": "https://player.vimeo.com/external/060606060.m3u8?s=7ad7a9dc6798fc2b12dddce0d7131c8878dc9dfc&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/070707070",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 129,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:06+00:00",
+      "pictures": {
+        "uri": "/videos/070707070/pictures/574967141",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967141_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967141_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967141_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967141_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967141_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967141_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967141_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "34576d063cea7da4c4f27b42ff6982ec8ff9925d"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/070707070.hd.mp4?s=ccd4c454acecb1cb9eafd23e834192014dc1cb66&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 24,
+          "size": 25271069,
+          "md5": "dd4d872f80becb37ff5740cec31c0e32",
+          "link_secure": "https://player.vimeo.com/external/070707070.hd.mp4?s=ccd4c454acecb1cb9eafd23e834192014dc1cb66&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/070707070.sd.mp4?s=e32b49563cd2c045873e367b54593269f48c41ab&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 24,
+          "size": 8575282,
+          "md5": "f537bd136d6c3d2c3420a3719ddb93e1",
+          "link_secure": "https://player.vimeo.com/external/070707070.sd.mp4?s=e32b49563cd2c045873e367b54593269f48c41ab&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/070707070.sd.mp4?s=e32b49563cd2c045873e367b54593269f48c41ab&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 24,
+          "size": 18258971,
+          "md5": "04d124594638d18de09dc15d156a425c",
+          "link_secure": "https://player.vimeo.com/external/070707070.sd.mp4?s=e32b49563cd2c045873e367b54593269f48c41ab&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/070707070.m3u8?s=496e3c3df8e6082ba793d4e88481b2d77eab3f8f&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 24,
+          "size": 25271069,
+          "md5": "dd4d872f80becb37ff5740cec31c0e32",
+          "link_secure": "https://player.vimeo.com/external/070707070.m3u8?s=496e3c3df8e6082ba793d4e88481b2d77eab3f8f&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/080808080",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 170,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:04+00:00",
+      "pictures": {
+        "uri": "/videos/080808080/pictures/574967031",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967031_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967031_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967031_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967031_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967031_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967031_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967031_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "75c2142b143bae2d446f0bf0c6a6e674dabdf665"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/080808080.sd.mp4?s=35eafe5eba9c35c6ccdc071311954fefe8e96d01&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 21546931,
+          "md5": "e1e80e1932a41c7e781551fe19028c7f",
+          "link_secure": "https://player.vimeo.com/external/080808080.sd.mp4?s=35eafe5eba9c35c6ccdc071311954fefe8e96d01&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/080808080.hd.mp4?s=6d43dee9e439803a1efc0dbcbc227c3b561186ac&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 29381767,
+          "md5": "0570b6f6d477f8b1c6cf2d6a4418c5c8",
+          "link_secure": "https://player.vimeo.com/external/080808080.hd.mp4?s=6d43dee9e439803a1efc0dbcbc227c3b561186ac&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/080808080.sd.mp4?s=35eafe5eba9c35c6ccdc071311954fefe8e96d01&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 10788930,
+          "md5": "64ae884579253cad7ae6cec82aab3949",
+          "link_secure": "https://player.vimeo.com/external/080808080.sd.mp4?s=35eafe5eba9c35c6ccdc071311954fefe8e96d01&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/080808080.m3u8?s=47bf86eaa16d2b951ff74b1c05e444581d5c5194&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:36+00:00",
+          "fps": 24,
+          "size": 21546931,
+          "md5": "e1e80e1932a41c7e781551fe19028c7f",
+          "link_secure": "https://player.vimeo.com/external/080808080.m3u8?s=47bf86eaa16d2b951ff74b1c05e444581d5c5194&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/090909090",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 163,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:03+00:00",
+      "pictures": {
+        "uri": "/videos/090909090/pictures/574967050",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967050_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967050_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967050_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967050_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967050_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967050_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967050_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "7bb065d7f33bed00f64b7ce4a6ed8a1a4bb18ffa"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/090909090.sd.mp4?s=49a0ac2739a69162d5ee01f2e8c41cb6c7229ed8&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:51+00:00",
+          "fps": 24,
+          "size": 18185796,
+          "md5": "988d4df06339df904111e7c7c2d7e464",
+          "link_secure": "https://player.vimeo.com/external/090909090.sd.mp4?s=49a0ac2739a69162d5ee01f2e8c41cb6c7229ed8&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/090909090.hd.mp4?s=b1d2b23b1e7100a04520b8425a499f8ed523774c&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:51+00:00",
+          "fps": 24,
+          "size": 25014877,
+          "md5": "617009da0234dfd713a4b0e3c1d67914",
+          "link_secure": "https://player.vimeo.com/external/090909090.hd.mp4?s=b1d2b23b1e7100a04520b8425a499f8ed523774c&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/090909090.sd.mp4?s=49a0ac2739a69162d5ee01f2e8c41cb6c7229ed8&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:50+00:00",
+          "fps": 24,
+          "size": 9249981,
+          "md5": "91600d4027704b29decbad8aa15917c4",
+          "link_secure": "https://player.vimeo.com/external/090909090.sd.mp4?s=49a0ac2739a69162d5ee01f2e8c41cb6c7229ed8&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/090909090.m3u8?s=065be54ee0f094538deb0ae8bddf54fa91c3fdee&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:51+00:00",
+          "fps": 24,
+          "size": 18185796,
+          "md5": "988d4df06339df904111e7c7c2d7e464",
+          "link_secure": "https://player.vimeo.com/external/090909090.m3u8?s=065be54ee0f094538deb0ae8bddf54fa91c3fdee&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/101010101",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 132,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:02+00:00",
+      "pictures": {
+        "uri": "/videos/101010101/pictures/574967104",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967104_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967104_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967104_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967104_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967104_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967104_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967104_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "308f0c14fb9451b4875e6f8e75f1cef22b6a91a9"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/101010101.hd.mp4?s=b8c4f3ab6b89cd0fc1317e4c6ae488ee79f556d5&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:06+00:00",
+          "fps": 24,
+          "size": 20318447,
+          "md5": "af72faa099496937de0bec781f4765a0",
+          "link_secure": "https://player.vimeo.com/external/101010101.hd.mp4?s=b8c4f3ab6b89cd0fc1317e4c6ae488ee79f556d5&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/101010101.sd.mp4?s=8e8d529ab0543467cf41f179c85af485237ce35e&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:06+00:00",
+          "fps": 24,
+          "size": 15391024,
+          "md5": "358004c4d7ccb11df78ef02829a08b60",
+          "link_secure": "https://player.vimeo.com/external/101010101.sd.mp4?s=8e8d529ab0543467cf41f179c85af485237ce35e&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/101010101.sd.mp4?s=8e8d529ab0543467cf41f179c85af485237ce35e&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:05+00:00",
+          "fps": 24,
+          "size": 7824193,
+          "md5": "1dc7930b564b1ce325fcb736adef2cc9",
+          "link_secure": "https://player.vimeo.com/external/101010101.sd.mp4?s=8e8d529ab0543467cf41f179c85af485237ce35e&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/101010101.m3u8?s=d0324cd0fa10aa7b90c52c411caca862f0871788&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:06+00:00",
+          "fps": 24,
+          "size": 20318447,
+          "md5": "af72faa099496937de0bec781f4765a0",
+          "link_secure": "https://player.vimeo.com/external/101010101.m3u8?s=d0324cd0fa10aa7b90c52c411caca862f0871788&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/111111111",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 175,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:38:00+00:00",
+      "pictures": {
+        "uri": "/videos/111111111/pictures/574967113",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967113_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967113_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967113_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967113_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967113_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967113_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967113_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "aad09ac4f8038992b5fafc26b0b209e8b5acc75b"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/111111111.hd.mp4?s=fdc3c43e3448db311a35cc832b10e7f3d26b05fb&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 29718417,
+          "md5": "c898745e20fadac19b446635fe545e6d",
+          "link_secure": "https://player.vimeo.com/external/111111111.hd.mp4?s=fdc3c43e3448db311a35cc832b10e7f3d26b05fb&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/111111111.sd.mp4?s=1b680f8a2bb80a8efd59c8cd50b3a24ae9a527e6&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 10729368,
+          "md5": "6268b75c1b830968fa1c9235c905f9c8",
+          "link_secure": "https://player.vimeo.com/external/111111111.sd.mp4?s=1b680f8a2bb80a8efd59c8cd50b3a24ae9a527e6&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/111111111.sd.mp4?s=1b680f8a2bb80a8efd59c8cd50b3a24ae9a527e6&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 22205960,
+          "md5": "6efa8f2ab9c28ce1a0d359b84d42a62c",
+          "link_secure": "https://player.vimeo.com/external/111111111.sd.mp4?s=1b680f8a2bb80a8efd59c8cd50b3a24ae9a527e6&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/111111111.m3u8?s=6d602be087ef2e04a73f3193f8ecba36b905d592&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 29718417,
+          "md5": "c898745e20fadac19b446635fe545e6d",
+          "link_secure": "https://player.vimeo.com/external/111111111.m3u8?s=6d602be087ef2e04a73f3193f8ecba36b905d592&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/121212121",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 174,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:59+00:00",
+      "pictures": {
+        "uri": "/videos/121212121/pictures/574967043",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967043_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967043_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967043_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967043_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967043_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967043_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967043_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "d1c450ab1adbe9c4952bc93184cc21fef44b5457"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/121212121.hd.mp4?s=2fb2342a7bb6599f656bfe012301f1cb8ec286e2&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 28406374,
+          "md5": "859a5ff2b8b6cd933ea77ad8b02d7c05",
+          "link_secure": "https://player.vimeo.com/external/121212121.hd.mp4?s=2fb2342a7bb6599f656bfe012301f1cb8ec286e2&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/121212121.sd.mp4?s=6bb816e6d366e8e280cac4b973bcdc1dcef4878b&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 10356971,
+          "md5": "ffb815a6dfba0f8bd363e9ed995aba5e",
+          "link_secure": "https://player.vimeo.com/external/121212121.sd.mp4?s=6bb816e6d366e8e280cac4b973bcdc1dcef4878b&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/121212121.sd.mp4?s=6bb816e6d366e8e280cac4b973bcdc1dcef4878b&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 20838917,
+          "md5": "12dab4a5873b4f31053fd29f7d54dca8",
+          "link_secure": "https://player.vimeo.com/external/121212121.sd.mp4?s=6bb816e6d366e8e280cac4b973bcdc1dcef4878b&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/121212121.m3u8?s=3ff27fb7f4426f7d5e01a16ec1009ecbddb023ee&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 24,
+          "size": 28406374,
+          "md5": "859a5ff2b8b6cd933ea77ad8b02d7c05",
+          "link_secure": "https://player.vimeo.com/external/121212121.m3u8?s=3ff27fb7f4426f7d5e01a16ec1009ecbddb023ee&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/131313131",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 191,
+      "width": 1920,
+      "height": 1080,
+      "release_time": "2016-06-09T17:37:58+00:00",
+      "pictures": {
+        "uri": "/videos/131313131/pictures/574967106",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967106_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967106_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967106_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967106_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967106_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967106_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967106_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "4d0078d763814249528ad85ad72c4c7f15cd0d74"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/131313131.sd.mp4?s=b13946df3296d19a3912e75c2b99200b97587b79&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:06+00:00",
+          "fps": 30,
+          "size": 41465828,
+          "md5": "866a2dcdf3f90c699847a91209b14c8a",
+          "link_secure": "https://player.vimeo.com/external/131313131.sd.mp4?s=b13946df3296d19a3912e75c2b99200b97587b79&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1920,
+          "height": 1080,
+          "link": "http://player.vimeo.com/external/131313131.hd.mp4?s=d86b28af05e0157eb3a97612ef81b07edff6015f&profile_id=119&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:06+00:00",
+          "fps": 30,
+          "size": 113275804,
+          "md5": "787217204cece305eccb79e3fb0053b0",
+          "link_secure": "https://player.vimeo.com/external/131313131.hd.mp4?s=d86b28af05e0157eb3a97612ef81b07edff6015f&profile_id=119&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/131313131.sd.mp4?s=b13946df3296d19a3912e75c2b99200b97587b79&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:06+00:00",
+          "fps": 30,
+          "size": 14764203,
+          "md5": "396b4b6c11b9a5137640f956597d3561",
+          "link_secure": "https://player.vimeo.com/external/131313131.sd.mp4?s=b13946df3296d19a3912e75c2b99200b97587b79&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/131313131.hd.mp4?s=d86b28af05e0157eb3a97612ef81b07edff6015f&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:06+00:00",
+          "fps": 30,
+          "size": 65440790,
+          "md5": "dec91472e4beb99c1b7e56aba51dae9c",
+          "link_secure": "https://player.vimeo.com/external/131313131.hd.mp4?s=d86b28af05e0157eb3a97612ef81b07edff6015f&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/131313131.m3u8?s=ca27270544bb9ead53400f9f98e7bca95067b16a&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:06+00:00",
+          "fps": 30,
+          "size": 41465828,
+          "md5": "866a2dcdf3f90c699847a91209b14c8a",
+          "link_secure": "https://player.vimeo.com/external/131313131.m3u8?s=ca27270544bb9ead53400f9f98e7bca95067b16a&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/141414141",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 191,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:57+00:00",
+      "pictures": {
+        "uri": "/videos/141414141/pictures/574967068",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967068_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967068_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967068_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967068_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967068_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967068_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967068_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "c68e8045a89faed1cf354db1c5449454ce7cad1a"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/141414141.sd.mp4?s=1bc80a974d9a8be2fe4809eef88a7d29761c3654&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 24,
+          "size": 12399139,
+          "md5": "38e1813db409fec1a70310de8cf1cae7",
+          "link_secure": "https://player.vimeo.com/external/141414141.sd.mp4?s=1bc80a974d9a8be2fe4809eef88a7d29761c3654&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/141414141.sd.mp4?s=1bc80a974d9a8be2fe4809eef88a7d29761c3654&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 24,
+          "size": 24391758,
+          "md5": "09542022b2f2c2bb4eac24af7dca2bdd",
+          "link_secure": "https://player.vimeo.com/external/141414141.sd.mp4?s=1bc80a974d9a8be2fe4809eef88a7d29761c3654&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/141414141.hd.mp4?s=e2e5f935cc18d9effe23fe419527ca3e22e8b6ec&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 24,
+          "size": 32618190,
+          "md5": "446f36245a84fa1deafc893c14a842fd",
+          "link_secure": "https://player.vimeo.com/external/141414141.hd.mp4?s=e2e5f935cc18d9effe23fe419527ca3e22e8b6ec&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/141414141.m3u8?s=7d0ce4dce985c43f20fd677554d3787d741c6495&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 24,
+          "size": 12399139,
+          "md5": "38e1813db409fec1a70310de8cf1cae7",
+          "link_secure": "https://player.vimeo.com/external/141414141.m3u8?s=7d0ce4dce985c43f20fd677554d3787d741c6495&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/151515151",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 188,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:55+00:00",
+      "pictures": {
+        "uri": "/videos/151515151/pictures/574967088",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967088_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967088_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967088_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967088_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967088_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967088_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967088_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "90f37aadbb88018b6f29e19046acfc9136e12d4a"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/151515151.sd.mp4?s=fe5dd28ba9d6b52643bf8cd37e770814ee60aac8&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 30,
+          "size": 12302276,
+          "md5": "d664c7c723eaed5018b47666ca374ee7",
+          "link_secure": "https://player.vimeo.com/external/151515151.sd.mp4?s=fe5dd28ba9d6b52643bf8cd37e770814ee60aac8&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/151515151.sd.mp4?s=fe5dd28ba9d6b52643bf8cd37e770814ee60aac8&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 30,
+          "size": 24852990,
+          "md5": "36e2982bbc8a995bf0c0404a4e45923a",
+          "link_secure": "https://player.vimeo.com/external/151515151.sd.mp4?s=fe5dd28ba9d6b52643bf8cd37e770814ee60aac8&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/151515151.hd.mp4?s=d6516c22d1b0231a88c00046fc622bea0d638eda&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 30,
+          "size": 34185970,
+          "md5": "380e3a06feec75ff839c494755459a25",
+          "link_secure": "https://player.vimeo.com/external/151515151.hd.mp4?s=d6516c22d1b0231a88c00046fc622bea0d638eda&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/151515151.m3u8?s=dc19979fc4e87f5c69074af07b6235cb3641c9d5&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:07+00:00",
+          "fps": 30,
+          "size": 12302276,
+          "md5": "d664c7c723eaed5018b47666ca374ee7",
+          "link_secure": "https://player.vimeo.com/external/151515151.m3u8?s=dc19979fc4e87f5c69074af07b6235cb3641c9d5&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/161616161",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 159,
+      "width": 634,
+      "height": 360,
+      "release_time": "2016-06-09T17:37:53+00:00",
+      "pictures": {
+        "uri": "/videos/161616161/pictures/574967029",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967029_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967029_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967029_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967029_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967029_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967029_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967029_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967029_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967029_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967029_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "d2bb24f468b9a05c7b2deaf3baa90c4945d2f72e"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/161616161.sd.mp4?s=1579c9413df59688f9f787fddb33a0c33991cd83&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 30,
+          "size": 9907447,
+          "md5": "fc30c363612347d803d57f865efeac8f",
+          "link_secure": "https://player.vimeo.com/external/161616161.sd.mp4?s=1579c9413df59688f9f787fddb33a0c33991cd83&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/161616161.sd.mp4?s=1579c9413df59688f9f787fddb33a0c33991cd83&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 30,
+          "size": 14648087,
+          "md5": "bb53abb1e34efd200d3e379df3d235fb",
+          "link_secure": "https://player.vimeo.com/external/161616161.sd.mp4?s=1579c9413df59688f9f787fddb33a0c33991cd83&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/161616161.m3u8?s=a82be2c8f67cb219f4862bbd13d3e70af19cf48f&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:37+00:00",
+          "fps": 30,
+          "size": 9907447,
+          "md5": "fc30c363612347d803d57f865efeac8f",
+          "link_secure": "https://player.vimeo.com/external/161616161.m3u8?s=a82be2c8f67cb219f4862bbd13d3e70af19cf48f&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/171717171",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 199,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:51+00:00",
+      "pictures": {
+        "uri": "/videos/171717171/pictures/574967045",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967045_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967045_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967045_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967045_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967045_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967045_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967045_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "b36d7c86479b29adbc29f29fec99690172f122bb"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/171717171.hd.mp4?s=46569c7705e4e18043043d84d08ff6010482d3d6&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:51+00:00",
+          "fps": 30,
+          "size": 41962044,
+          "md5": "64d377c9da2150d40bda40c763953a30",
+          "link_secure": "https://player.vimeo.com/external/171717171.hd.mp4?s=46569c7705e4e18043043d84d08ff6010482d3d6&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/171717171.sd.mp4?s=4b8f85c8b70094af9d1407d43572602ab8a63762&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:51+00:00",
+          "fps": 30,
+          "size": 14429823,
+          "md5": "8bb250dc8cb7705ff483397b839ae588",
+          "link_secure": "https://player.vimeo.com/external/171717171.sd.mp4?s=4b8f85c8b70094af9d1407d43572602ab8a63762&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/171717171.sd.mp4?s=4b8f85c8b70094af9d1407d43572602ab8a63762&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:51+00:00",
+          "fps": 30,
+          "size": 29813786,
+          "md5": "3846659059c65fbcd9eb3fea4fa990db",
+          "link_secure": "https://player.vimeo.com/external/171717171.sd.mp4?s=4b8f85c8b70094af9d1407d43572602ab8a63762&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/171717171.m3u8?s=26e39a8ac80f101a09cfc9525c42d111783c79ba&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:08:51+00:00",
+          "fps": 30,
+          "size": 41962044,
+          "md5": "64d377c9da2150d40bda40c763953a30",
+          "link_secure": "https://player.vimeo.com/external/171717171.m3u8?s=26e39a8ac80f101a09cfc9525c42d111783c79ba&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/181818181",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 136,
+      "width": 634,
+      "height": 360,
+      "release_time": "2016-06-09T17:37:50+00:00",
+      "pictures": {
+        "uri": "/videos/181818181/pictures/574967030",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967030_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967030_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967030_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967030_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967030_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967030_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967030_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967030_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967030_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967030_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "77c4d07ab75f8d961f14e324e0745ec91d6a5742"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/181818181.sd.mp4?s=a6df429bce948f0907c8f4db418311dcf98d5d05&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 30,
+          "size": 7557811,
+          "md5": "2286b974f14ba5b9f568fd967430a129",
+          "link_secure": "https://player.vimeo.com/external/181818181.sd.mp4?s=a6df429bce948f0907c8f4db418311dcf98d5d05&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/181818181.sd.mp4?s=a6df429bce948f0907c8f4db418311dcf98d5d05&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 30,
+          "size": 10880780,
+          "md5": "c045f1388aa13e6c4de9de62c86225c9",
+          "link_secure": "https://player.vimeo.com/external/181818181.sd.mp4?s=a6df429bce948f0907c8f4db418311dcf98d5d05&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/181818181.m3u8?s=b04456212630440c63ac82ee5e8f9077b2c88a2b&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:53+00:00",
+          "fps": 30,
+          "size": 7557811,
+          "md5": "2286b974f14ba5b9f568fd967430a129",
+          "link_secure": "https://player.vimeo.com/external/181818181.m3u8?s=b04456212630440c63ac82ee5e8f9077b2c88a2b&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/191919191",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 176,
+      "width": 704,
+      "height": 400,
+      "release_time": "2016-06-09T17:37:48+00:00",
+      "pictures": {
+        "uri": "/videos/191919191/pictures/574967065",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967065_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967065_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967065_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967065_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967065_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967065_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967065_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967065_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967065_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967065_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "c0644fc7c80428671ca980a52a0408b5c65b3c2a"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/191919191.sd.mp4?s=6c74d26dadf0a61fa133f6a9486bb31878acca38&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:21+00:00",
+          "fps": 30,
+          "size": 17049222,
+          "md5": "4bea98f0f2216e2c07a4a59cc56499f9",
+          "link_secure": "https://player.vimeo.com/external/191919191.sd.mp4?s=6c74d26dadf0a61fa133f6a9486bb31878acca38&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/191919191.sd.mp4?s=6c74d26dadf0a61fa133f6a9486bb31878acca38&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:21+00:00",
+          "fps": 30,
+          "size": 10910305,
+          "md5": "4e46a65685a5ea1b7224ef24c9f698c6",
+          "link_secure": "https://player.vimeo.com/external/191919191.sd.mp4?s=6c74d26dadf0a61fa133f6a9486bb31878acca38&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/191919191.m3u8?s=78709c5e7c63e30de1b2cfc2a43dd8e3148fbd91&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:21+00:00",
+          "fps": 30,
+          "size": 17049222,
+          "md5": "4bea98f0f2216e2c07a4a59cc56499f9",
+          "link_secure": "https://player.vimeo.com/external/191919191.m3u8?s=78709c5e7c63e30de1b2cfc2a43dd8e3148fbd91&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/202020202",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 148,
+      "width": 704,
+      "height": 400,
+      "release_time": "2016-06-09T17:37:47+00:00",
+      "pictures": {
+        "uri": "/videos/202020202/pictures/574967012",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967012_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967012_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967012_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967012_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967012_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967012_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967012_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967012_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967012_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967012_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "57d1632891b5d6d29b119efd68ba247ba97ce848"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/202020202.sd.mp4?s=d3493fea3de9909f430329ee86ec13005968370a&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:05+00:00",
+          "fps": 30,
+          "size": 10984265,
+          "md5": "7fe8c984a879ca4e4fdaf7369a70cb6f",
+          "link_secure": "https://player.vimeo.com/external/202020202.sd.mp4?s=d3493fea3de9909f430329ee86ec13005968370a&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/202020202.sd.mp4?s=d3493fea3de9909f430329ee86ec13005968370a&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:05+00:00",
+          "fps": 30,
+          "size": 7709059,
+          "md5": "5e9f2d5946bbb5d51a9569d5ab86ef91",
+          "link_secure": "https://player.vimeo.com/external/202020202.sd.mp4?s=d3493fea3de9909f430329ee86ec13005968370a&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/202020202.m3u8?s=a597dd96ac700f1dbfc04812eb2e78cdf571acb4&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:05+00:00",
+          "fps": 30,
+          "size": 10984265,
+          "md5": "7fe8c984a879ca4e4fdaf7369a70cb6f",
+          "link_secure": "https://player.vimeo.com/external/202020202.m3u8?s=a597dd96ac700f1dbfc04812eb2e78cdf571acb4&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/212121212",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 143,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:45+00:00",
+      "pictures": {
+        "uri": "/videos/212121212/pictures/574967004",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967004_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967004_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967004_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574967004_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574967004_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574967004_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967004_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "b817b85b3980b64ceebdc7d57b6c6dff35f70276"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/212121212.hd.mp4?s=b5efff1fa3d19ca0c344e75c63dbf451c8292b40&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:52+00:00",
+          "fps": 30,
+          "size": 17276393,
+          "md5": "30c002b7c224b5894ea577195e926dbb",
+          "link_secure": "https://player.vimeo.com/external/212121212.hd.mp4?s=b5efff1fa3d19ca0c344e75c63dbf451c8292b40&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/212121212.sd.mp4?s=1eeef34678ad232102109ee1f1b48908e89b813d&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:52+00:00",
+          "fps": 30,
+          "size": 7837088,
+          "md5": "49db6673fd9d8ad080839974e7428873",
+          "link_secure": "https://player.vimeo.com/external/212121212.sd.mp4?s=1eeef34678ad232102109ee1f1b48908e89b813d&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/212121212.sd.mp4?s=1eeef34678ad232102109ee1f1b48908e89b813d&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:52+00:00",
+          "fps": 30,
+          "size": 13887157,
+          "md5": "c8161fd674adf614503a7814ceb2253e",
+          "link_secure": "https://player.vimeo.com/external/212121212.sd.mp4?s=1eeef34678ad232102109ee1f1b48908e89b813d&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/212121212.m3u8?s=ce3519ea4115d4ef8a391739f75ce0ddb175764d&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:52+00:00",
+          "fps": 30,
+          "size": 17276393,
+          "md5": "30c002b7c224b5894ea577195e926dbb",
+          "link_secure": "https://player.vimeo.com/external/212121212.m3u8?s=ce3519ea4115d4ef8a391739f75ce0ddb175764d&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/222222222",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 126,
+      "width": 1280,
+      "height": 720,
+      "release_time": "2016-06-09T17:37:43+00:00",
+      "pictures": {
+        "uri": "/videos/222222222/pictures/574966982",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574966982_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574966982_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574966982_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "link": "https://i.vimeocdn.com/video/574966982_640x360.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "link": "https://i.vimeocdn.com/video/574966982_960x540.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "link": "https://i.vimeocdn.com/video/574966982_1280x720.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966982_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "f99a05c4e745516e134d0d9a8782715c007323c3"
+      },
+      "files": [
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "width": 1280,
+          "height": 720,
+          "link": "http://player.vimeo.com/external/222222222.hd.mp4?s=fd6274731da2dfff8c13bf7484bc4eea483ed965&profile_id=174&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:07+00:00",
+          "fps": 30,
+          "size": 23696521,
+          "md5": "e0bfb7e8d13fbcd915cdafb543bdc465",
+          "link_secure": "https://player.vimeo.com/external/222222222.hd.mp4?s=fd6274731da2dfff8c13bf7484bc4eea483ed965&profile_id=174&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/222222222.sd.mp4?s=8632a03d573b04a6312970928920ed7a1ffa8102&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:06+00:00",
+          "fps": 30,
+          "size": 7922832,
+          "md5": "34b27898d4fc0610ef7b614f0d4626de",
+          "link_secure": "https://player.vimeo.com/external/222222222.sd.mp4?s=8632a03d573b04a6312970928920ed7a1ffa8102&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 960,
+          "height": 540,
+          "link": "http://player.vimeo.com/external/222222222.sd.mp4?s=8632a03d573b04a6312970928920ed7a1ffa8102&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:06+00:00",
+          "fps": 30,
+          "size": 17031077,
+          "md5": "a9a321c345b73e965952b7d33c9ee967",
+          "link_secure": "https://player.vimeo.com/external/222222222.sd.mp4?s=8632a03d573b04a6312970928920ed7a1ffa8102&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/222222222.m3u8?s=e02bc745d9ee4510a2e52c99db2ded6842a80127&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:11:07+00:00",
+          "fps": 30,
+          "size": 23696521,
+          "md5": "e0bfb7e8d13fbcd915cdafb543bdc465",
+          "link_secure": "https://player.vimeo.com/external/222222222.m3u8?s=e02bc745d9ee4510a2e52c99db2ded6842a80127&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/232323232",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 167,
+      "width": 634,
+      "height": 360,
+      "release_time": "2016-06-09T17:37:41+00:00",
+      "pictures": {
+        "uri": "/videos/232323232/pictures/574967048",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967048_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967048_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967048_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967048_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967048_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967048_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967048_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967048_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967048_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967048_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "09ca4d429b8bd933218834609a49a4f98ea99da6"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/232323232.sd.mp4?s=59fd24511ae88cbf80aabf4b59958e856ae9bee8&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:37+00:00",
+          "fps": 30,
+          "size": 7034360,
+          "md5": "9427de97395091b98d0788c890b1aaa4",
+          "link_secure": "https://player.vimeo.com/external/232323232.sd.mp4?s=59fd24511ae88cbf80aabf4b59958e856ae9bee8&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/232323232.sd.mp4?s=59fd24511ae88cbf80aabf4b59958e856ae9bee8&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:36+00:00",
+          "fps": 30,
+          "size": 10583930,
+          "md5": "42ceb5c37b033d9490574188d11a25dc",
+          "link_secure": "https://player.vimeo.com/external/232323232.sd.mp4?s=59fd24511ae88cbf80aabf4b59958e856ae9bee8&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/232323232.m3u8?s=feb41fcaea0d4aafa0e52900004e3ee283b1f547&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:37+00:00",
+          "fps": 30,
+          "size": 7034360,
+          "md5": "9427de97395091b98d0788c890b1aaa4",
+          "link_secure": "https://player.vimeo.com/external/232323232.m3u8?s=feb41fcaea0d4aafa0e52900004e3ee283b1f547&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/242424242",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 140,
+      "width": 704,
+      "height": 400,
+      "release_time": "2016-06-09T17:37:38+00:00",
+      "pictures": {
+        "uri": "/videos/242424242/pictures/574966953",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574966953_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966953_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574966953_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966953_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574966953_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966953_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574966953_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966953_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574966953_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574966953_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "bd14e21fbb98e1f3886a1d6b20e1e83c25210010"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/242424242.sd.mp4?s=3434c798fb5801ac6aeb75665cb88392bcbace7d&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:51+00:00",
+          "fps": 24,
+          "size": 17469109,
+          "md5": "72d224ceb3e9bc94307c402fba7237b6",
+          "link_secure": "https://player.vimeo.com/external/242424242.sd.mp4?s=3434c798fb5801ac6aeb75665cb88392bcbace7d&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/242424242.sd.mp4?s=3434c798fb5801ac6aeb75665cb88392bcbace7d&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:51+00:00",
+          "fps": 24,
+          "size": 10090619,
+          "md5": "4009093769f1086f8c155b1f2950d826",
+          "link_secure": "https://player.vimeo.com/external/242424242.sd.mp4?s=3434c798fb5801ac6aeb75665cb88392bcbace7d&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/242424242.m3u8?s=2f4b60d07bc3cf4e3e1f823a7669bb9b43087851&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:10:51+00:00",
+          "fps": 24,
+          "size": 17469109,
+          "md5": "72d224ceb3e9bc94307c402fba7237b6",
+          "link_secure": "https://player.vimeo.com/external/242424242.m3u8?s=2f4b60d07bc3cf4e3e1f823a7669bb9b43087851&oauth2_token_id=915580453"
+        }
+      ]
+    },
+    {
+      "uri": "/videos/252525252",
+      "name": "A Video Title",
+      "description": "A generic description",
+      "duration": 164,
+      "width": 704,
+      "height": 400,
+      "release_time": "2016-06-09T17:37:36+00:00",
+      "pictures": {
+        "uri": "/videos/252525252/pictures/574967044",
+        "active": true,
+        "type": "custom",
+        "sizes": [
+          {
+            "width": 100,
+            "height": 75,
+            "link": "https://i.vimeocdn.com/video/574967044_100x75.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967044_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 200,
+            "height": 150,
+            "link": "https://i.vimeocdn.com/video/574967044_200x150.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967044_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 295,
+            "height": 166,
+            "link": "https://i.vimeocdn.com/video/574967044_295x166.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967044_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 640,
+            "height": 364,
+            "link": "https://i.vimeocdn.com/video/574967044_640x364.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967044_640x364.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          },
+          {
+            "width": 960,
+            "height": 545,
+            "link": "https://i.vimeocdn.com/video/574967044_960x545.jpg?r=pad",
+            "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/574967044_960x545.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+          }
+        ],
+        "resource_key": "00f8440881426d9de930fc925dfccb3459ba87d2"
+      },
+      "files": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 704,
+          "height": 400,
+          "link": "http://player.vimeo.com/external/252525252.sd.mp4?s=175ba043376a1d256e0ca9e4803366837874fb39&profile_id=165&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:52+00:00",
+          "fps": 24,
+          "size": 17795884,
+          "md5": "7afaceb54c20ecb3889ee231185c6c51",
+          "link_secure": "https://player.vimeo.com/external/252525252.sd.mp4?s=175ba043376a1d256e0ca9e4803366837874fb39&profile_id=165&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "width": 634,
+          "height": 360,
+          "link": "http://player.vimeo.com/external/252525252.sd.mp4?s=175ba043376a1d256e0ca9e4803366837874fb39&profile_id=164&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:51+00:00",
+          "fps": 24,
+          "size": 10849645,
+          "md5": "ea54af776edb9edc4068cfb1a77aa722",
+          "link_secure": "https://player.vimeo.com/external/252525252.sd.mp4?s=175ba043376a1d256e0ca9e4803366837874fb39&profile_id=164&oauth2_token_id=915580453"
+        },
+        {
+          "quality": "hls",
+          "type": "video/mp4",
+          "link": "https://player.vimeo.com/external/252525252.m3u8?s=118f5f0ea021cc574b76662e6b763bfa228dec14&oauth2_token_id=915580453",
+          "created_time": "2016-06-09T18:09:52+00:00",
+          "fps": 24,
+          "size": 17795884,
+          "md5": "7afaceb54c20ecb3889ee231185c6c51",
+          "link_secure": "https://player.vimeo.com/external/252525252.m3u8?s=118f5f0ea021cc574b76662e6b763bfa228dec14&oauth2_token_id=915580453"
+        }
+      ]
+    }
+  ]
+}

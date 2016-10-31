@@ -1,0 +1,50 @@
+{
+  "uri": "/users/52315022/albums/4148058",
+  "name": "Test Album",
+  "description": null,
+  "pictures": {
+    "uri": "/videos/166971134/pictures/571218442",
+    "active": true,
+    "type": "custom",
+    "sizes": [
+      {
+        "width": 100,
+        "height": 75,
+        "link": "https://i.vimeocdn.com/video/571218442_100x75.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 200,
+        "height": 150,
+        "link": "https://i.vimeocdn.com/video/571218442_200x150.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 295,
+        "height": 166,
+        "link": "https://i.vimeocdn.com/video/571218442_295x166.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 640,
+        "height": 360,
+        "link": "https://i.vimeocdn.com/video/571218442_640x360.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 960,
+        "height": 540,
+        "link": "https://i.vimeocdn.com/video/571218442_960x540.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      }
+    ],
+    "resource_key": "cd756d68f81720733b46a09c8ffad397f3e0bbc6"
+  },
+  "metadata": {
+    "connections": {
+      "videos": {
+        "total": 1
+      }
+    }
+  }
+}

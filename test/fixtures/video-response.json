@@ -1,0 +1,101 @@
+{
+  "uri": "/videos/166971134",
+  "name": "Odd Networks",
+  "description": "World's first open source OTT platform.\n\nLaunch your very own branded streaming service on the most popular over-the-top devices available today. Absolutely free.",
+  "duration": 8,
+  "width": 1280,
+  "height": 720,
+  "release_time": "2016-05-17T14:55:08+00:00",
+  "pictures": {
+    "uri": "/videos/166971134/pictures/571218442",
+    "active": true,
+    "type": "custom",
+    "sizes": [
+      {
+        "width": 100,
+        "height": 75,
+        "link": "https://i.vimeocdn.com/video/571218442_100x75.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 200,
+        "height": 150,
+        "link": "https://i.vimeocdn.com/video/571218442_200x150.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 295,
+        "height": 166,
+        "link": "https://i.vimeocdn.com/video/571218442_295x166.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 640,
+        "height": 360,
+        "link": "https://i.vimeocdn.com/video/571218442_640x360.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 960,
+        "height": 540,
+        "link": "https://i.vimeocdn.com/video/571218442_960x540.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "link": "https://i.vimeocdn.com/video/571218442_1280x720.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/571218442_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      }
+    ],
+    "resource_key": "cd756d68f81720733b46a09c8ffad397f3e0bbc6"
+  },
+  "files": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "width": 640,
+      "height": 360,
+      "link": "http://player.vimeo.com/external/166971134.sd.mp4?s=ecd42462a6fba996760fc29522c6ed99c1d455af&profile_id=164&oauth2_token_id=916337166",
+      "created_time": "2016-05-17T14:59:26+00:00",
+      "fps": 24,
+      "size": 613782,
+      "md5": "6e8e4e55496380ed793c1d3fb142594a",
+      "link_secure": "https://player.vimeo.com/external/166971134.sd.mp4?s=ecd42462a6fba996760fc29522c6ed99c1d455af&profile_id=164&oauth2_token_id=916337166"
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "width": 960,
+      "height": 540,
+      "link": "http://player.vimeo.com/external/166971134.sd.mp4?s=ecd42462a6fba996760fc29522c6ed99c1d455af&profile_id=165&oauth2_token_id=916337166",
+      "created_time": "2016-05-17T14:59:25+00:00",
+      "fps": 24,
+      "size": 1564175,
+      "md5": "251c1ae34a92fe9c73a7f0987b2f5b41",
+      "link_secure": "https://player.vimeo.com/external/166971134.sd.mp4?s=ecd42462a6fba996760fc29522c6ed99c1d455af&profile_id=165&oauth2_token_id=916337166"
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "link": "http://player.vimeo.com/external/166971134.hd.mp4?s=e997b944e46b184ccc7c0966c8846d11943bf3a7&profile_id=174&oauth2_token_id=916337166",
+      "created_time": "2016-05-17T14:59:25+00:00",
+      "fps": 24,
+      "size": 2973085,
+      "md5": "d207465d7f7a8d805838a120f66aceb7",
+      "link_secure": "https://player.vimeo.com/external/166971134.hd.mp4?s=e997b944e46b184ccc7c0966c8846d11943bf3a7&profile_id=174&oauth2_token_id=916337166"
+    },
+    {
+      "quality": "hls",
+      "type": "video/mp4",
+      "link": "https://player.vimeo.com/external/166971134.m3u8?s=7cd295025af358e48d54ba49823915e34bd2d9fd&oauth2_token_id=916337166",
+      "created_time": "2016-05-17T14:59:26+00:00",
+      "fps": 24,
+      "size": 613782,
+      "md5": "6e8e4e55496380ed793c1d3fb142594a",
+      "link_secure": "https://player.vimeo.com/external/166971134.m3u8?s=7cd295025af358e48d54ba49823915e34bd2d9fd&oauth2_token_id=916337166"
+    }
+  ]
+}

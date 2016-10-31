@@ -1,0 +1,53 @@
+{
+  "uri": "/videos/108591077",
+  "name": "Kenneth Adams | Encouraging Business Growth in New York State / Day 1",
+  "description": "Video Recording and Production by ACA Video\n\nLevel Up was a creative tech conference that explored the process of creating and shipping modern software products. The conference featured practical experience by industry experts, over two days, covering four themes; ideate, design, build, and launch.",
+  "duration": 1356,
+  "width": 1280,
+  "height": 720,
+  "release_time": "2014-10-10T16:21:53+00:00",
+  "pictures": {
+    "uri": "/videos/108591077/pictures/494770875",
+    "active": true,
+    "type": "custom",
+    "sizes": [
+      {
+        "width": 100,
+        "height": 75,
+        "link": "https://i.vimeocdn.com/video/494770875_100x75.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_100x75.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 200,
+        "height": 150,
+        "link": "https://i.vimeocdn.com/video/494770875_200x150.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_200x150.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 295,
+        "height": 166,
+        "link": "https://i.vimeocdn.com/video/494770875_295x166.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_295x166.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 640,
+        "height": 360,
+        "link": "https://i.vimeocdn.com/video/494770875_640x360.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_640x360.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 960,
+        "height": 540,
+        "link": "https://i.vimeocdn.com/video/494770875_960x540.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_960x540.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "link": "https://i.vimeocdn.com/video/494770875_1280x720.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src=https://i.vimeocdn.com/video/494770875_1280x720.jpg&src=http://f.vimeocdn.com/p/images/crawler_play.png"
+      }
+    ],
+    "resource_key": "4cda0a5d03d5d7781dbf8bf5b62e016acb5a438c"
+  }
+}

@@ -9,6 +9,7 @@ REQUEST_METHODS.makeRequest = '{"path": "STRING"}';
 REQUEST_METHODS.getUserByEmail = '{"userEmail": "STRING"}';
 REQUEST_METHODS.getUserResources = '{"userId": "STRING"}';
 REQUEST_METHODS.getUserSubscriptions = '{"userId": "STRING"}';
+REQUEST_METHODS.checkTrialUser = '{"userEmail": "STRING"}';
 
 const listCommand = () => {
 	console.log('Request methods:');
